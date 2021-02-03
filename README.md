@@ -1,4 +1,5 @@
-# My name is **Matthew Petersen** and I build things for the web.
+<h1 align="center">Hi, I'm Matthew Petersen</h1>
+<h3 align="center">A Full-Stack Software Engineer with a specialization in Java and C#</h3>
 
 ### Languages
 - Java
@@ -23,9 +24,6 @@
 - XUnit
 - Visual Studio / IntelliJ
 
-
-<h1 align="center">Hi 👋, I'm Matthew Petersen</h1>
-<h3 align="center">A passionate Full-Stack Software Engineer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
