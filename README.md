@@ -8,6 +8,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattpet26&show_icons=true&locale=en" alt="mattpet26" /></p>
 
+### A little about me
+- Family comes first
+- Military Veteran
+- I love to cook, it's been something I have been passionate about since I was little. I love being able to deliver something that people can enjoy.
+- I have always enjoyed playing video games, I'd love to eventually make one!
+- Just got my first dog ever! His name is Kayne, he's a black lab/shepard mix and a total sweet heart.
+- Connect with me on LnkedIn, I love meeting new people!
+- Learning never stops. Push yourself.
+- Gym Rat
+
 ### Languages
 - Java
 - C#
