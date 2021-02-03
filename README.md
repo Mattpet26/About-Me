@@ -1,6 +1,4 @@
-# About Me
-
-My name is **Matthew Petersen** and I build things for the web.
+# My name is **Matthew Petersen** and I build things for the web.
 
 ### Languages
 - Java
@@ -11,7 +9,7 @@ My name is **Matthew Petersen** and I build things for the web.
 
 ### Frameworks
 - SpringBoot
-- ASP.NET
+- ASP.NET Core
 - Express
 - jQuery
 - BootStrap
@@ -19,3 +17,8 @@ My name is **Matthew Petersen** and I build things for the web.
 ### Tools
 - PostgreSQL
 - NodeJS
+- Git/Github
+- EJS
+- Express.js
+- XUnit
+- Visual Studio / IntelliJ
